@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "MFA for the Enterprise"
+date:   2025-07-21 00:00:00 +0000
+categories: mfa iam security authentication
+tags: mfa iam security authentication
+---
 ## Elevating Enterprise Login Security: A Deep Dive into Authentication Assurance Levels 🛡️
 
 In today's digital landscape, robust login security isn't just a recommendation; it's a fundamental necessity for enterprises. With cyber threats constantly evolving, a compromised credential can lead to devastating data breaches, financial losses, and irreparable damage to reputation. This post will explore the critical concept of **Authentication Assurance Levels (AALs)**, helping you understand what level of security is appropriate for various activities and the commercial solutions available to achieve the highest degree of assurance.
