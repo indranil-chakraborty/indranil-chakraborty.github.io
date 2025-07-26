@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Comparing leading PAM solutions"
+date:   2025-06-20 00:00:00 +0000
+categories: iam security authentication "privileged access"
+tags: iam security authentication "privileged access"
+---
+
 ## Unlocking Secure Access: A Comparison of Teleport, HashiCorp Boundary, and StrongDM
 
 In today's complex, hybrid cloud environments, managing and securing privileged access to critical infrastructure is a paramount concern for enterprises. Traditional VPNs and static credentials fall short, leading to security gaps, compliance headaches, and operational friction. This is where modern Privileged Access Management (PAM) solutions come into play, offering a centralized, secure, and auditable way to manage who can access what, when, and how.
