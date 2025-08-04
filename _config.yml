@@ -24,7 +24,6 @@ twitter_username: indranil_tech
 github_username: indranil-chakraborty
 include:
   - _images
-  destination: docs/
 
   # Build settings
 markdown: GFM 
